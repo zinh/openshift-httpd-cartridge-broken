@@ -1,4 +1,8 @@
-openshift-httpd-cartridge-broken
-================================
+- [ ] Document usage
 
-A simple httpd cartridge that comes with lots of common bugs and errors (so you can practice fixing them)
+# Mock Cartridge used for testing Node Platform
+
+This is a mock implementation of the cartridge API which is used to test the 
+OpenShift node platform functionality.  The mock cartridges maintains a store
+of what actions have been performed and provides methods to test for those actions.  
+
