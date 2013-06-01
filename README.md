@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - [ ] Document usage
 
 # HTTPD broken cartridge for training cartridge writers
