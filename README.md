@@ -1,8 +1,10 @@
 - [ ] Document usage
 
-# Mock Cartridge used for testing Node Platform
+# HTTPD broken cartridge for training cartridge writers
 
-This is a mock implementation of the cartridge API which is used to test the 
-OpenShift node platform functionality.  The mock cartridges maintains a store
-of what actions have been performed and provides methods to test for those actions.  
+This is an intentionally broken cartridge.  It's intended to be used by
+cartridge writers who want to better understand how to create cartridges
+as well as better hone their troubleshooting skills.
 
+It's intended to be used as a downloadable cartridge with the new v2
+cartridge format.  It comes with several bugs so good luck and happy hacking!
