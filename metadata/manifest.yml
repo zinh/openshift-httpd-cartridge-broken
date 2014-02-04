@@ -1,7 +1,7 @@
 Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
-Source-Url: https://github.com/zinh/openshift-httpd-cartridge-broken 
+Source-Url: https://github.com/zinh/openshift-httpd-cartridge-broken.git
 Cartridge-Vendor: zinh
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
